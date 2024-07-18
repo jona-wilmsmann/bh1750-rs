@@ -1,4 +1,8 @@
 # BH1750 driver
+[![Crates.io](https://img.shields.io/crates/d/bh1750.svg)](https://crates.io/crates/bh1750)
+[![Crates.io](https://img.shields.io/crates/v/bh1750.svg)](https://crates.io/crates/bh1750)
+[![Released API docs](https://docs.rs/bh1750/badge.svg)](https://docs.rs/bh1750)
+
 A platform-agnostic, 'no_std' compatible Rust driver for the BH1750 ambient light sensor using the `embedded-hal` traits.
 
 The I²C instruction set is based on the following datasheet: [BH1750 datasheet](https://www.mouser.com/datasheet/2/348/bh1750fvi-e-186247.pdf) \
