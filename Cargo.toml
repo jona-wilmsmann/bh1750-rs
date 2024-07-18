@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Jona Wilmsmann"]
 edition = "2021"
 description = "BH1750 light sensor driver using embedded-hal"
+repository = "https://github.com/jona-wilmsmann/bh1750-rs"
 license = "MIT OR Apache-2.0"
 
 [dependencies]

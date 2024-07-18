@@ -16,7 +16,7 @@
 //! ## Example
 //! This example uses the `esp-hal` crate to interface with the sensor on an ESP32 microcontroller.
 //!
-//! ```no_run
+//! ```rust no_run
 //! #![no_std]
 //! #![no_main]
 //!
