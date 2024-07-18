@@ -1,0 +1,10 @@
+[package]
+name = "bh1750"
+version = "0.1.0"
+authors = ["Jona Wilmsmann"]
+edition = "2021"
+description = "BH1750 light sensor driver using embedded-hal"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+embedded-hal = "1.0.0"
